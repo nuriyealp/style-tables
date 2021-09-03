@@ -94,6 +94,11 @@ header p {
 }
 /*Table Styles*/
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
 table th {
   text-align: left;
   background-color: #868686;
