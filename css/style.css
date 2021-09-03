@@ -101,6 +101,12 @@ table th {
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);
 }
 
+table th,
+table td {
+  border: 1px solid #869960;
+  padding: 10px;
+}
+
 footer {
   text-align: center;
   font-size: 85%;
